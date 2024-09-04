@@ -1,6 +1,6 @@
 <h1>Enumerating A Network With Nmap And Zenmap</h1>
 
- ### [Video Tutorials Explaining Nmap And Zenmap In Details](https://www.veed.io/view/c36278fe-cefa-4502-ba5c-8d222622b2a1?panel=)
+ ### [Video Tutorials Explaining Nmap And Zenmap In Details](https://www.mediafire.com/file/dhbddxsyo2rvkcf/MOBK5174+(1).mp4/file)
 
 <h2>Description</h2>
 As a cybersecurity professional, the project demonstrates the use of Nmap and Zenmap, powerful network scanning tools, to discover devices and services operating on a local network. Network scanning is a critical practice in cybersecurity, as it helps identify potential targets and vulnerabilities that could be exploited within a network.
